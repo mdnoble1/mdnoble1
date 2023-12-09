@@ -21,6 +21,7 @@
 ## 👀 Current Overview
 
 #### 👋 Hi, I’m Md Noble
-#### 👀 I’m interested in Web Development
+#### 👨‍💻 I’m interested in Web Development
+#### 🤵 I like to build dynamic and responsive web applications using React.
 #### 🌱 I’m currently learning Next.js
-#### 📫 Email me : noblerzs18@gmail.com
+#### 📫 Reach me at : noblerzs18@gmail.com
