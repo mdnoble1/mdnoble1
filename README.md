@@ -4,8 +4,12 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdnoble1&theme=burnt-neon&hide_border=true&border_radius=0" alt="GitHub Streak" /></p>
 
+## 📭 Reach me out
 
-## 💻 Technologies that I know
+<p align="center"><img height="40" href="https://www.linkedin.com/in/ali-ayan-md-noble-b2668b290" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+<img height="40" href="https://www.facebook.com/noblerzs" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></p>
+
+## 🌐 Technologies that I know
 
 <p align="center">
   <a href="https://skillicons.dev">
