@@ -6,8 +6,9 @@
 
 ## 📭 Reach me out
 
-<p align="center"><img height="40" href="https://www.linkedin.com/in/ali-ayan-md-noble-b2668b290" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-<img height="40" href="https://www.facebook.com/noblerzs" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/ali-ayan-md-noble-b2668b290"><img height="40"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://www.facebook.com/noblerzs"><img height="40"  src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a></p>
 
 ## 🌐 Technologies that I know
 
