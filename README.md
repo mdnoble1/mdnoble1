@@ -1,5 +1,11 @@
 <a href="https://www.facebook.com/noblerzs"><img  src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/banner/githubBanner.png"></a></p>
 
+## 👨‍💻 About Me
+
+### Hey, I'm Md Noble, a passionate web developer with a love for building immersive and responsive web applications
+
+### My goal is to make a positive impact in the world of web development.
+
 ## 📊 Current Status
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdnoble1&theme=burnt-neon&hide_border=true&border_radius=0" alt="GitHub Streak" /></p>
