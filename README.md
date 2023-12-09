@@ -1,14 +1,8 @@
 ![Md Noble Github Banner!](https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/banner/githubBanner.png)
 
-## 📊 Current Stats
+## 📊 Current Status
 
----
-
-<p align="center">
-  <div>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdnoble1&theme=bear&border_radius=2)](https://git.io/streak-stats)
-  </div>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdnoble1&theme=tokyonight&hide_border=true&border_radius=0&card_width=494)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
