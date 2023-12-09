@@ -2,7 +2,7 @@
 
 ## 📊 Current Status
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdnoble1&theme=tokyonight&hide_border=true&border_radius=0&card_width=494)](https://git.io/streak-stats)
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdnoble1&theme=burnt-neon&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
