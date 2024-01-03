@@ -1,4 +1,4 @@
-<a href="https://www.facebook.com/noblerzs"><img  src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/banner/githubBanner.png"></a></p>
+<a href="https://www.facebook.com/noblerzs"><img  src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/banner/noblegithub%20banner.gif"></a></p>
 
 ## 👨‍💻 About Me
 
