@@ -14,8 +14,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mdnoble1"><img height="40"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://www.facebook.com/noblerzs"><img height="40"  src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
-<a href="https://www.facebook.com/noblerzs"><img height="60"  src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/buttons/linkedin%20button.png"></a></p>
+<a href="https://www.facebook.com/noblerzs"><img height="40"  src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a></p>
 
 ## 🌐 Technologies That I Know
 
@@ -25,7 +24,7 @@
   </a>
 </p>
 
-## 👀 Current Overview
+## 👀 Overview
 
 #### 👋 Hi, I’m Md Noble
 
