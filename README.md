@@ -17,7 +17,7 @@
 
 <br />
 
-[<p align="center"><img height="60" src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/buttons/linkedin%20button.png">](https://www.linkedin.com/in/mdnoble1)[<img height="60" src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/buttons/facebook%20button.png">](https://www.facebook.com/noblerzs)
+[<p align="center"><img height="60" src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/buttons/linkedin%20button.png">](https://www.linkedin.com/in/mdnoble1)[<img height="60" src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/buttons/facebook.png">](https://www.facebook.com/noblerzs)
 
 <br />
 
@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,mongo,git&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,mongo,firebase,git,figma&perline=6" />
   </a>
 </p>
 
