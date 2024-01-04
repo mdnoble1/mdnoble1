@@ -11,9 +11,16 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdnoble1&theme=burnt-neon&hide_border=true&border_radius=0" alt="GitHub Streak" /></p>
 
 
-[<p align="center"><img height="75" src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/buttons/linkedin%20button.png">](https://www.linkedin.com/in/mdnoble1)[<img height="75" src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/buttons/facebook%20button.png">](https://www.facebook.com/noblerzs)
+
 
 ## 📭 Reach Me Out
+
+<br />
+
+[<p align="center"><img height="60" src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/buttons/linkedin%20button.png">](https://www.linkedin.com/in/mdnoble1)[<img height="60" src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/buttons/facebook%20button.png">](https://www.facebook.com/noblerzs)
+
+<br />
+
 
 <!-- <p align="center">
 <a href="https://www.linkedin.com/in/mdnoble1"><img height="40"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
