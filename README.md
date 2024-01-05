@@ -25,14 +25,10 @@
 
 <br />
 
-[<p align="center"><img height="60" src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/buttons/linkedin.png">](https://www.linkedin.com/in/mdnoble1)[<img height="60" src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/buttons/facebook.png">](https://www.facebook.com/noblerzs)
+<p align="center"><a href="https://www.linkedin.com/in/mdnoble1"><img height="60" src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/buttons/linkedin.png"></a>
+<a href="https://www.facebook.com/noblerzs"><img height="60" src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/buttons/facebook.png"></a></p>
 
 <br />
-
-
-<!-- <p align="center">
-<a href="https://www.linkedin.com/in/mdnoble1"><img height="40"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://www.facebook.com/noblerzs"><img height="40"  src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a></p> -->
 
 ## 🌐 Technologies That I Know
 
