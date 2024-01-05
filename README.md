@@ -14,7 +14,7 @@
 
 <br />
 
-<p align="center"><a href="https://git.io/streak-stats"><img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=mdnoble1&theme=react&hide_border=true&background=0d1117&stroke=0D1117&fire=CB6CE6&sideLabels=5868E7&currStreakNum=CB6CE6&ring=CB6CE6&currStreakLabel=CB6CE6&sideNums=5868E7" alt="GitHub Streak" /></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mdnoble1&theme=react&hide_border=true&background=0d1117&stroke=0D1117&fire=CB6CE6&sideLabels=5868E7&currStreakNum=CB6CE6&ring=CB6CE6&currStreakLabel=CB6CE6&sideNums=5868E7" alt="GitHub Streak" /></a></p>
 
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdnoble1&theme=burnt-neon&hide_border=true&border_radius=0" alt="GitHub Streak" /></p> -->
 
@@ -49,7 +49,7 @@
 ## 👀 Current Overview
 
 <div align="left">
-<a href="https://www.facebook.com/noblerzs"><img align="right" src="https://octodex.github.com/images/NUX_Octodex.gif" width="220"/></a>
+<a href="https://www.facebook.com/noblerzs"><img align="right" src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/gif/octodex.gif" width="220"/></a>
 </div>
 
 #### 👋 Hi, I’m Md Noble
