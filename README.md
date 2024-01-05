@@ -49,7 +49,7 @@
 ## 👀 Current Overview
 
 <div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://octodex.github.com/images/NUX_Octodex.gif" width="220"/></a>
+<a href="https://www.facebook.com/noblerzs"><img align="right" src="https://octodex.github.com/images/NUX_Octodex.gif" width="220"/></a>
 </div>
 
 #### 👋 Hi, I’m Md Noble
