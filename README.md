@@ -44,8 +44,8 @@
 
 ## 👀 Current Overview
 
-<div align="left">
-<a href="https://www.facebook.com/noblerzs"><img align="right" src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/gif/octodex.gif" width="220"/></a>
+<div>
+<a href="https://www.facebook.com/noblerzs"><img align="right" src="https://raw.githubusercontent.com/mdnoble1/mdnoble1/main/assets/gif/octodex.gif" width="200"/></a>
 </div>
 
 #### 👋 Hi, I’m Md Noble
