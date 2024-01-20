@@ -20,7 +20,7 @@
 
 <br />
 
-<p align="center"><a href="https://git.io/streak-stats"><img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=mdnoble1&theme=react&hide_border=true&background=0d1117&stroke=0D1117&fire=CB6CE6&sideLabels=5868E7&currStreakNum=CB6CE6&ring=CB6CE6&currStreakLabel=CB6CE6&sideNums=5868E7" alt="GitHub Streak" /></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mdnoble1&theme=react&hide_border=true&background=0d1117&stroke=0D1117&fire=CB6CE6&sideLabels=5868E7&currStreakNum=CB6CE6&ring=CB6CE6&currStreakLabel=CB6CE6&sideNums=5868E7" alt="GitHub Streak" /></a></p>
 
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdnoble1&theme=burnt-neon&hide_border=true&border_radius=0" alt="GitHub Streak" /></p> -->
 
